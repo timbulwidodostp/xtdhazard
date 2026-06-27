@@ -1,6 +1,8 @@
 # xtdhazard
 Instrumental Variables and Control Function Estimation of the Discrete-Time Hazard Model Use xtdhazard With STATA 19
 
+https://www.youtube.com/watch?v=rwHgWeCxRpg
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
